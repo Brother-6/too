@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Douglas Rivas</title>
+    <style>
+        body {
+            font-family: 'Gothic', Times, serif, sans-serif;
+            margin: 0;
+            padding: 100px;
+        }
+
+        header {
+            background-color: #135 ;
+            color: #fff;
+            padding: 11px;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        main {
+          color: #189;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        section {
+            margin-bottom: 40px;
+        }
+
+        h2 {
+            color: #167;
+        }
+
+        p {
+            line-height: 1.5;
+        }
+
+        .contact-links a {
+            display: inline-block;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<style>
+    .header-box {
+        width: 200px;
+        height: 200px;
+        background-color: lightgray;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .header-box h1, .header-box p {
+        margin: 10px;
+    }
+</style><body>
+    <header>
+        <h1>Douglas Rivas</h1>
+        <p><style>
+    .black-link {
+        color: black;
+    }
+         
+</style>
+
+<p><a href="mailto:(anthonysixr@gmail.com)" class="black-link">anthonysixr@gmail.com</a></p>
+    </header>
+<body>
+    <header>
+       
+        <img src="https://i.ibb.co/2tRfjqS/315002321-10228513900542308-2095790253380799465-n.jpg" alt="Profile Picture" style="width: 200px; height: auto;">
+    </header>
+</body>
+   <main>
+    <section id="intro">
+        <h2 style="font-size: 18px;">My name is Douglas Rivas and I live in  &nbsp;&nbsp;&nbsp;&nbsp;in Portland
+         &nbsp;&nbsp;&nbsp;&nbsp;Just moved here!</h2>
+    </section>
+</main>
+       
+       
+        </section>
+
+        <section id="about">
+           
+         
+         
+            <p>  <h2 style="font-size: 14px;">
+              <section id="about">
+   
+    <p>
+        I enjoy going out for drinks with friends.  <br> <br> I Enjoy Video Games.
+    </p>
+    <p>
+      <br>
+        I like playing billiards and chess.
+    </p>
+</section>
+         
+     <section id="contact">
+    <h2>Contact</h2>
+    <div class="contact-links">
+        <a href="(Age 30, White Male)" target="_blank">LinkedIn</a>
+        <a href="mailto:theubc@gmail.com">Email</a>
+        <a href="https://goo.gl/maps/bLF8CGEcXpSnDGUn7" target="_blank" style="margin-top: 10px;">Google Maps Location</a>
+    </div>
+</section>
